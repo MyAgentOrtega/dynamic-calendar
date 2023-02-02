@@ -4,8 +4,8 @@
 This is a calendar that shows current time between business hours (9am-5-pm). Current time is highlighted in red, past in grey, and future in green.
 
 ### <u> Notes: </u>
-- This is a calendar that shows current time between business hours (9am-5-pm). Current time is highlighted in red, past in grey, and future in green. 
-- For this Challenge time slots are extended to better demonstrate functionality (9am-10pm current time will be highlighted in red)
+- Normal function for this calendar will show business hours (9am-5-pm). Current time will be  highlighted in red, past in green, and future in grey. 
+- For this Challenge time slots are extended to better visually demonstrate functionality to user due to the hour having to be current for "red' line to be demonstrated (extended functionailty: 9am-10pm current time will be highlighted in red)
 
 
 ### <u> Screenshot: </u>
@@ -15,7 +15,7 @@ This is a calendar that shows current time between business hours (9am-5-pm). Cu
     
 ### <u> Deployable Link to Website: </u>
 
-https://myagentortega.github.io/randomizer-tool/
+https://myagentortega.github.io/dynamic-calendar/
 ### <u> Support:  </u>
 
 - [MDN](https://developer.mozilla.org/en-US/)  
