@@ -1,15 +1,19 @@
 # Dynamic Calendar <br/>
 
 ### <u> Description: </u>
-This is a calendar that shows current time between business hours (9am-5-pm). Current time is highlighted in red, past in grey, and future in green.
+This is a calendar that shows current time between business hours (9am-5-pm). Current time is highlighted in red, past in grey, and future in green. Local Storage is being utilized and visible in the web browser ("Inspect/Application/Local Storage")
 
 ### <u> Notes: </u>
+- Local Storage is now available on application!
 - Normal function for this calendar will show business hours (9am-5-pm). Current time will be  highlighted in red, past in green, and future in grey. 
 - For this Challenge time slots are extended to better visually demonstrate functionality to user due to the hour having to be current for "red' line to be demonstrated (extended functionailty: 9am-10pm current time will be highlighted in red)
 
 
-### <u> Screenshot: </u>
-![Randomizer Website Screenshot](./Assets/_C__Users_MyAge_code_bootcamp_challenges_dynamic-calendar_index.html.png)
+
+### <u> Screenshots: </u>
+
+![Dynamic Calendar Screenshot2](./Assets/images/_C__Users_MyAge_code_bootcamp_challenges_dynamic-calendar_index.html.png)
+![Dynamic Calendar Screenshot](./Assets/images/Updated%20Local%20Storage.jpg)
 <br /><br />
 
     
